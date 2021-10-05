@@ -1,0 +1,3 @@
+com\automation\AppConfig.class
+com\automation\pages\LoginPage.class
+com\automation\testcases\LoginPageTest.class
